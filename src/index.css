@@ -1,1 +1,5 @@
 @import "tailwindcss";
+@theme{
+    --color-vanillaCream:#EEEBDA;
+    --color-midnightIndigo:#282B4A;
+}
